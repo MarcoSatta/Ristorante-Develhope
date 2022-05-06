@@ -1,0 +1,11 @@
+Ristorante Le Magie
+
+Menù a base di carne..
+
+Bevande disponibili : 
+Acqua 1lt : 2$
+Acqua 50cl : 1.50$
+Coca-Cola 1lt : 3$
+Fanta 1lt : 3$
+Vino Bianco locale 500ml : 5$
+Vino Rosso locale 500ml : 5$
