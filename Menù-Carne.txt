@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Secondi piatti:
 
 - Petto di fagiano in crepinette con verdure invernali				14.99$
@@ -5,3 +6,16 @@ Secondi piatti:
 - Guancetta di vitello cottura lunga e verdure autunnali			23.99$
 - Piccione arrosto, rapa rossa e frutti di bosco				21.99$
 - Filetto di manzo alla Wellington con crema di patate e spinaci		26.99$
+=======
+Ristorante Le Magie
+
+Menù a base di carne..
+
+Bevande disponibili : 
+Acqua 1lt : 2$
+Acqua 50cl : 1.50$
+Coca-Cola 1lt : 3$
+Fanta 1lt : 3$
+Vino Bianco locale 500ml : 5$
+Vino Rosso locale 500ml : 5$
+>>>>>>> remote
