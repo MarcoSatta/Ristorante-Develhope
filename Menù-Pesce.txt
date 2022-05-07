@@ -1,3 +1,4 @@
+
 Ristorante Le Magie
 
 Menù a base di pesce..
@@ -9,3 +10,14 @@ Coca-Cola 1lt : 3$
 Fanta 1lt : 3$
 Vino Bianco locale 500ml : 5$
 Vino Rosso locale 500ml : 5$
+
+Antipasti di pesce:
+1. Polpettine di tonno e ricotta, 5$
+Sfiziose polpettine di pane e ricotta con dolce cuore di tonno.
+2. Capesante gratinate, 7$
+Capesante gratinate nel pane aromatizzato all'olio e spezie mediterranee.
+3. Insalata di polpo prezzemolata, 9$Insalata di polpo condita con salsa verde al prezzemolo e finocchio.
+4. Impepata di cozze, 5$La ricetta originale seguita alla perfezione: solo cozze e pepe.
+5. Polpette di pesce, 6$
+Polpettine di pesci piccoli come acciughe e sarde fritte.
+=======
