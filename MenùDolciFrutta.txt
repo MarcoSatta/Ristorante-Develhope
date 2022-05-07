@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 Ristorante le Magie
 
@@ -15,7 +15,7 @@ Crostata di fragole fresche : 3.50$
 Tortino di cioccolato : 2.50$
 
 Frutta:
-gitgit
+
 Anguria : 2.50$
 Melone : 3$
 Uva : 2.50$
