@@ -1,6 +1,10 @@
 Ristorante Le Magie
 
+<<<<<<< HEAD
 Menù a base di vegano..
+=======
+Menù a base vegan..
+>>>>>>> remote2
 
 Bevande disponibili : 
 Acqua 1lt : 2$
@@ -9,3 +13,15 @@ Coca-Cola 1lt : 3$
 Fanta 1lt : 3$
 Vino Bianco locale 500ml : 5$
 Vino Rosso locale 500ml : 5$
+<<<<<<< HEAD
+=======
+
+Antipasti vegani:
+1. Paté di carote e crostini fatti in casa, 5$Paté di carote arrosto e lenticchie serviti con crostini fatti in casa di lievito madre.
+2. Tartufini spontanei, 7$Tartufini ti tofu e olive, con noci, rucola e frutti rossi spontanei
+3. Pomodorini colorati, 5$Pomodorini rossi e gialli con zucchine, pinoli e salsa alla maggiorana.
+4. Toast di patate dolci, 9$
+Toast di patate dolci servite con carote marinate all'orientale, avocado e rucola fresca.
+5. Plumcake salato, 9$
+Plumcake salato al tofu e con verdure di stagione frullate e a pezzi.
+>>>>>>> remote2
