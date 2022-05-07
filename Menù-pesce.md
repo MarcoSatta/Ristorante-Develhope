@@ -28,3 +28,17 @@ La ricetta originale seguita alla perfezione: solo cozze e pepe.
 ##### 5. _Polpette di pesce_, 6$
 Polpettine di pesci piccoli come acciughe e sarde fritte.
 ***
+
+#### Primi piatti di pesce:
+***
+##### 1.  _Spaghetti alle Vongole_, 8$
+##### 2.  _Spaghetti allo Scoglio_, 7$
+##### 3.  _Paella_, 8$
+##### 4.  _Riso Venere con Gamberetti e Zucchine_, 6$
+##### 5.  _Linguine gamberetti, Zucchine e Zafferano_, 6$
+##### 6.  _Carbonara di Mare_, 7$,
+##### 7.  _Paccheri al Sugo di Calamari_, 10$
+##### 8.  _Pappardelle agli Asparagi e Gamberi_, 9$
+##### 9.  _Risotto al Limone e Gamberetti_, 8$
+##### 10. _Pasta con Pesce Spada_, 7$
+***
