@@ -1,8 +1,8 @@
 #                         Ristorante Le Magie
 
-#                         Menù a base vegan..
+##                         Menù a base vegan..
 
-# Bevande disponibili : 
+#### Bevande disponibili : 
 Acqua 1lt : 2$
 
 Acqua 50cl : 1.50$
