@@ -42,19 +42,19 @@ Secondi piatti:
  Dolci/Frutta:
 
 Dolci
- 1. Tiramisù : 5$
- 2. Torta-Tenerina : 4$
- 3. Brownies : 3.50&
- 4. Muffin con gocce di cioccolato : 3$
- 5. Torta di mele : 4$
- 6. Crostata di fragole fresche : 3.50$
- 7. Tortino di cioccolato : 2.50$
+ 1. Tiramisù :                                                                                5.99$
+ 2. Torta-Tenerina :                                                                          4.99$
+ 3. Brownies :                                                                                3.99$
+ 4. Muffin con gocce di cioccolato :                                                          3.99$
+ 5. Torta di mele :                                                                           4.99$
+ 6. Crostata di fragole fresche :                                                             3.99$
+ 7. Tortino di cioccolato :                                                                   2.99$
 
- 1. Anguria : 2.50$
- 2. Melone : 3$
- 3. Uva : 2.50$
- 4. Fragole : 2$
- 5. Pesche : 3$
- 6. Melograno : 4$
- 7. Frutti di bosco : 3.50$
+ 1. Anguria :                                                                                 2.99$
+ 2. Melone :                                                                                  3.99$
+ 3. Uva :                                                                                     2.99$
+ 4. Fragole :                                                                                 2.99$
+ 5. Pesche :                                                                                  3.99$
+ 6. Melograno :                                                                               4.99$
+ 7. Frutti di bosco :                                                                         3.99$
 
