@@ -4,7 +4,7 @@ Dovremmo ricreare un menù del nostro ristorante dove ognuno aggiungerà una por
 ***
 Link Menù di Carne in formato txt : [Menù Carne](https://github.com/MarcoSatta/Ristorante-Develhope/blob/main/Menù-Carne.txt) 
 ***
-Link Menù di Pesce in formato txt : [Menù Pesce](https://etc/)
+Link Menù di Pesce in formato txt : [Menù Pesce](https://github.com/MarcoSatta/Ristorante-Develhope/blob/main/Menù-Pesce.txt)
 ***
 Link Menù Vegan in formato txt : [Menù Vegan](https://etc/)
 ***
