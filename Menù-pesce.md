@@ -49,3 +49,24 @@ Polpettine di pesci piccoli come acciughe e sarde fritte.
 ##### 4. _Filetto di ricciola crudo dentro cotto fuori alla mediterranea con millefoglie_, 27.40$
 ##### 5. _Filetto di tonno con cime di rape e salsa di cipolla rossa di Tropea_, 26.50$
 ***
+#### Dolci/Frutta:
+***
+Dolci
+##### 1. Tiramisù : 5$
+##### 2. Torta-Tenerina : 4$
+##### 3. Brownies : 3.50&
+##### 4. Muffin con gocce di cioccolato : 3$
+##### 5. Torta di mele : 4$
+##### 6. Crostata di fragole fresche : 3.50$
+##### 7. Tortino di cioccolato : 2.50$
+***
+Frutta
+***
+##### 1. Anguria : 2.50$
+##### 2. Melone : 3$
+##### 3. Uva : 2.50$
+##### 4. Fragole : 2$
+##### 5. Pesche : 3$
+##### 6. Melograno : 4$
+##### 7. Frutti di bosco : 3.50$
+***
