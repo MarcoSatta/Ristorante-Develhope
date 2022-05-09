@@ -14,7 +14,7 @@ Fanta 1lt : 3$
 Vino Bianco locale 500ml : 5$
 
 Vino Rosso locale 500ml : 5$
-
+***
 #### Antipasti vegani:
 ***
 ##### 1. _Paté di carote e crostini fatti in casa_, 5$
