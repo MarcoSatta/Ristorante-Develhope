@@ -12,5 +12,5 @@ Link Menù di Carne in formato md : [Menù Carne](https://github.com/MarcoSatta/
 ***
 Link Menù di Pesce in formato md : [Menù Pesce](https://github.com/MarcoSatta/Ristorante-Develhope/edit/main/Menù-pesce.md)
 ***
-Link Menù Vegan in formato md : [Menù Vegan](https://github.com/MarcoSatta/Ristorante-Develhope/edit/main/Menù-Vegano.md)
+Link Menù Vegan in formato md : [Menù Vegan](https://github.com/MarcoSatta/Ristorante-Develhope/blob/main/Menù-vegano.md)
 ***
