@@ -3,10 +3,10 @@ Lo scopo di questo esercizio è quello di iniziare ad imparare a collaborare att
 Dovremmo ricreare un menù del nostro ristorante dove ognuno aggiungerà una portata.
 ***
 #### Ruoli : <br>
-_**Chef:** MarcoSatta_,<br> [Profilo GitHub](https://github.com/MarcoSatta)
-_**Antipasti:** NicolaMeloni_,<br> [Profilo GitHub](https://github.com/DeltaNicola)
-_**Primi Piatti:** AntonioQuatrale_,<br> [Profilo GitHub](https://github.com/AntonioQuatrale93)
-_**Secondi Piatti:** AndreaColucci_,<br> [Profilo GitHub](https://github.com/AndreaC-94)
+_**Chef:** MarcoSatta_, [Profilo GitHub](https://github.com/MarcoSatta) <br>
+_**Antipasti:** NicolaMeloni_, [Profilo GitHub](https://github.com/DeltaNicola) <br>
+_**Primi Piatti:** AntonioQuatrale_, [Profilo GitHub](https://github.com/AntonioQuatrale93) <br>
+_**Secondi Piatti:** AndreaColucci_, [Profilo GitHub](https://github.com/AndreaC-94) <br>
 _**Dolci & Frutta:** MatteoCimino_ [Profilo GitHub](https://github.com/Matcim)
 ***
 Link Menù di Carne in formato txt : [Menù Carne](https://github.com/MarcoSatta/Ristorante-Develhope/blob/main/Menù-Carne.txt) 
