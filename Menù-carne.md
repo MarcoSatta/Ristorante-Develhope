@@ -14,7 +14,7 @@ Fanta 1lt : 3$
 Vino Bianco locale 500ml : 5$
 
 Vino Rosso locale 500ml : 5$
-
+***
 #### Antipasti di carne:
 ***
 ##### 1. _Nervetti e fagioli_, 7$
