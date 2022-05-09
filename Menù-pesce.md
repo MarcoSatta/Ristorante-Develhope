@@ -43,9 +43,9 @@ Polpettine di pesci piccoli come acciughe e sarde fritte.
 ***
 #### Secondi piatti:
 ***
-1. Ricciola panata e ripiena di bufala su pomodoro marinato							22.70$
-2. Filetto di rombo chiodato, sedano rapa e melagrana								23.00$
-3. Filetto di pescato all’isolana													19.90$
-4. Filetto di ricciola crudo dentro cotto fuori alla mediterranea con millefoglie	27.40$
-5. Filetto di tonno con cime di rape e salsa di cipolla rossa di Tropea				26.50$
+1. _Ricciola panata e ripiena di bufala su pomodoro marinato_,							22.70$
+2. _Filetto di rombo chiodato, sedano rapa e melagrana_								23.00$
+3. _Filetto di pescato all’isolana_													19.90$
+4. _Filetto di ricciola crudo dentro cotto fuori alla mediterranea con millefoglie_	27.40$
+5. _Filetto di tonno con cime di rape e salsa di cipolla rossa di Tropea_				26.50$
 ***
