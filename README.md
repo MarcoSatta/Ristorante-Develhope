@@ -2,7 +2,8 @@
 Lo scopo di questo esercizio è quello di iniziare ad imparare a collaborare attraverso Github. 
 Dovremmo ricreare un menù del nostro ristorante dove ognuno aggiungerà una portata.
 ***
-#### Ruoli : <br><br> _**Chef:** MarcoSatta_,<br> _**Antipasti:** NicolaMeloni_,<br> _**Primi Piatti:** AntonioQuatrale_,<br> _**Secondi Piatti:** AndreaColucci_,<br> _**Dolci & Frutta:** MatteoCimino_
+#### Ruoli : <br><br>
+_**Chef:** MarcoSatta_,<br> _**Antipasti:** NicolaMeloni_,<br> _**Primi Piatti:** AntonioQuatrale_,<br> _**Secondi Piatti:** AndreaColucci_,<br> _**Dolci & Frutta:** MatteoCimino_
 ***
 Link Menù di Carne in formato txt : [Menù Carne](https://github.com/MarcoSatta/Ristorante-Develhope/blob/main/Menù-Carne.txt) 
 ***
