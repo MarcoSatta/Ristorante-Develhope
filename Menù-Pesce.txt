@@ -35,20 +35,11 @@ Primi piatti di pesce:
 10. Pasta con Pesce Spada,                                                                                               7.99$
 
 Secondi piatti:
-<<<<<<< HEAD
 1. Ricciola panata e ripiena di bufala su pomodoro marinato                                                              22.70$
 2. Filetto di rombo chiodato, sedano rapa e melagrana					                                 23.00$
 3. Filetto di pescato all’isolana							                                 19.90$
 4. Filetto di ricciola crudo dentro cotto fuori alla mediterranea con millefoglie                                        27.40$
 5. Filetto di tonno con cime di rape e salsa di cipolla rossa di Tropea			                                 26.50$
-=======
-1. Ricciola panata e ripiena di bufala su pomodoro marinato				22.70$
-2. Filetto di rombo chiodato, sedano rapa e melagrana					23.00$
-3. Filetto di pescato all’isolana							19.90$
-4. Filetto di ricciola crudo dentro cotto fuori alla mediterranea con millefoglie	27.40$
-5. Filetto di tonno con cime di rape e salsa di cipolla rossa di Tropea			26.50$
-
- Dolci/Frutta:
 
 Dolci
  1. Tiramisù : 5$
@@ -66,4 +57,3 @@ Dolci
  5. Pesche : 3$
  6. Melograno : 4$
  7. Frutti di bosco : 3.50$
->>>>>>> Dolci/Frutta
