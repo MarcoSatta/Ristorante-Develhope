@@ -22,15 +22,15 @@ Carpaccio di manzo marinata al limone servito con scaglie di parmigiano e rucola
 
 Primi piatti di carne:
 1. Spaghetti alla Carbonara,				                                                                8.99$
-2. Pasta alla Gricia,				                                                                                            7.99$
-3. Cannelloni,				                                                                                                  8.99$
-4. Pasta al Forno,				                                                                                              6.99$
-5. Risotto alla Salsiccia,				                                                                                      6.99$
-6. Tagliatelle al Ragu Bianco,				                                                                                  7.99$
-7. Paccheri Ripieni con Salsiccia e Funghi,				                                                                      10.99$
-8. Pappardelle con Speck e Funghi Porcini,				                                                                      9.99$
-9. Trofie al Forno,				                                                                                              8.99$
-10. Genovese,				                                                                                                    7.99$
+2. Pasta alla Gricia,				                                                                        7.99$
+3. Cannelloni,				                                                                              8.99$
+4. Pasta al Forno,				                                                                          6.99$
+5. Risotto alla Salsiccia,				                                                                  6.99$
+6. Tagliatelle al Ragu Bianco,				                                                              7.99$
+7. Paccheri Ripieni con Salsiccia e Funghi,				                                                  10.99$
+8. Pappardelle con Speck e Funghi Porcini,				                                                  9.99$
+9. Trofie al Forno,				                                                                          8.99$
+10. Genovese,				                                                                                7.99$
 
 Secondi piatti:
 1. Petto di fagiano in crepinette con verdure invernali				                                                         14.99$
