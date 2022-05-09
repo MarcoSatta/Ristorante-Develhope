@@ -35,6 +35,6 @@ Primi piatti di carne:
 Secondi piatti:
 1. Petto di fagiano in crepinette con verdure invernali				                                         14.99$
 2. Capretto su spuma di patate				                                                                 18.99$
-3. Guancetta di vitello cottura lunga e verdure autunnali				                                   23.99$
-4. Piccione arrosto, rapa rossa e frutti di bosco				                                           21.99$
-5. Filetto di manzo alla Wellington con crema di patate e spinaci				                           26.99$
+3. Guancetta di vitello cottura lunga e verdure autunnali				                                 23.99$
+4. Piccione arrosto, rapa rossa e frutti di bosco				                                         21.99$
+5. Filetto di manzo alla Wellington con crema di patate e spinaci				                         26.99$
