@@ -3,31 +3,67 @@ Ristorante Le Magie
 Menù a base di pesce..
 
 Bevande disponibili : 
-Acqua 1lt : 2$
-Acqua 50cl : 1.50$
-Coca-Cola 1lt : 3$
-Fanta 1lt : 3$
-Vino Bianco locale 500ml : 5$
-Vino Rosso locale 500ml : 5$
+Acqua 1lt :                                                                                                              2.99$
+Acqua 50cl :                                                                                                             1.99$
+Coca-Cola 1lt :                                                                                                          3.99$
+Fanta 1lt :                                                                                                              3.99$
+Vino Bianco locale 500ml :                                                                                               5.99$
+Vino Rosso locale 500ml :                                                                                                5.99$
 
 Antipasti di pesce:
-1. Polpettine di tonno e ricotta, 5$
+1. Polpettine di tonno e ricotta,                                                                                        5.99$
 Sfiziose polpettine di pane e ricotta con dolce cuore di tonno.
-2. Capesante gratinate, 7$
+2. Capesante gratinate,                                                                                                  7.99$
 Capesante gratinate nel pane aromatizzato all'olio e spezie mediterranee.
-3. Insalata di polpo prezzemolata, 9$Insalata di polpo condita con salsa verde al prezzemolo e finocchio.
-4. Impepata di cozze, 5$La ricetta originale seguita alla perfezione: solo cozze e pepe.
-5. Polpette di pesce, 6$
+3. Insalata di polpo prezzemolata,                                                                                       9.99$
+Insalata di polpo condita con salsa verde al prezzemolo e finocchio.
+4. Impepata di cozze,                                                                                                    5.99$
+La ricetta originale seguita alla perfezione: solo cozze e pepe.
+5. Polpette di pesce,                                                                                                    6.99$
 Polpettine di pesci piccoli come acciughe e sarde fritte.
 
 Primi piatti di pesce:
-1.  Spaghetti alle Vongole, 8$
-2.  Spaghetti allo Scoglio, 7$
-3.  Paella, 8$
-4.  Riso Venere con Gamberetti e Zucchine, 6$
-5.  Linguine gamberetti, Zucchine e Zafferano, 6$
-6.  Carbonara di Mare, 7$,
-7.  Paccheri al Sugo di Calamari, 10$
-8.  Pappardelle agli Asparagi e Gamberi, 9$
-9.  Risotto al Limone e Gamberetti, 8$
-10. Pasta con Pesce Spada, 7$
+1. Spaghetti alle Vongole,                                                                                               8.99$
+2. Spaghetti allo Scoglio,                                                                                               7.99$
+3. Paella,                                                                                                               8.99$
+4. Riso Venere con Gamberetti e Zucchine,                                                                                6.99$
+5. Linguine gamberetti, Zucchine e Zafferano,                                                                            6.99$
+6. Carbonara di Mare,                                                                                                    7.99$
+7. Paccheri al Sugo di Calamari,                                                                                         10.99$
+8. Pappardelle agli Asparagi e Gamberi,                                                                                  9.99$
+9. Risotto al Limone e Gamberetti,                                                                                       8.99$
+10. Pasta con Pesce Spada,                                                                                               7.99$
+
+Secondi piatti:
+<<<<<<< HEAD
+1. Ricciola panata e ripiena di bufala su pomodoro marinato                                                              22.70$
+2. Filetto di rombo chiodato, sedano rapa e melagrana					                                 23.00$
+3. Filetto di pescato all’isolana							                                 19.90$
+4. Filetto di ricciola crudo dentro cotto fuori alla mediterranea con millefoglie                                        27.40$
+5. Filetto di tonno con cime di rape e salsa di cipolla rossa di Tropea			                                 26.50$
+=======
+1. Ricciola panata e ripiena di bufala su pomodoro marinato				22.70$
+2. Filetto di rombo chiodato, sedano rapa e melagrana					23.00$
+3. Filetto di pescato all’isolana							19.90$
+4. Filetto di ricciola crudo dentro cotto fuori alla mediterranea con millefoglie	27.40$
+5. Filetto di tonno con cime di rape e salsa di cipolla rossa di Tropea			26.50$
+
+ Dolci/Frutta:
+
+Dolci
+ 1. Tiramisù : 5$
+ 2. Torta-Tenerina : 4$
+ 3. Brownies : 3.50&
+ 4. Muffin con gocce di cioccolato : 3$
+ 5. Torta di mele : 4$
+ 6. Crostata di fragole fresche : 3.50$
+ 7. Tortino di cioccolato : 2.50$
+
+ 1. Anguria : 2.50$
+ 2. Melone : 3$
+ 3. Uva : 2.50$
+ 4. Fragole : 2$
+ 5. Pesche : 3$
+ 6. Melograno : 4$
+ 7. Frutti di bosco : 3.50$
+>>>>>>> Dolci/Frutta

@@ -28,7 +28,6 @@ La ricetta originale seguita alla perfezione: solo cozze e pepe.
 ##### 5. _Polpette di pesce_, 6$
 Polpettine di pesci piccoli come acciughe e sarde fritte.
 ***
-
 #### Primi piatti di pesce:
 ***
 ##### 1.  _Spaghetti alle Vongole_, 8$
@@ -41,4 +40,33 @@ Polpettine di pesci piccoli come acciughe e sarde fritte.
 ##### 8.  _Pappardelle agli Asparagi e Gamberi_, 9$
 ##### 9.  _Risotto al Limone e Gamberetti_, 8$
 ##### 10. _Pasta con Pesce Spada_, 7$
+***
+#### Secondi piatti:
+***
+##### 1. _Ricciola panata e ripiena di bufala su pomodoro marinato_, 22.70$
+##### 2. _Filetto di rombo chiodato, sedano rapa e melagrana_, 23.00$
+##### 3. _Filetto di pescato all’isolana_, 19.90$
+##### 4. _Filetto di ricciola crudo dentro cotto fuori alla mediterranea con millefoglie_, 27.40$
+##### 5. _Filetto di tonno con cime di rape e salsa di cipolla rossa di Tropea_, 26.50$
+***
+#### Dolci/Frutta:
+***
+Dolci
+##### 1. Tiramisù : 5$
+##### 2. Torta-Tenerina : 4$
+##### 3. Brownies : 3.50&
+##### 4. Muffin con gocce di cioccolato : 3$
+##### 5. Torta di mele : 4$
+##### 6. Crostata di fragole fresche : 3.50$
+##### 7. Tortino di cioccolato : 2.50$
+***
+Frutta
+***
+##### 1. Anguria : 2.50$
+##### 2. Melone : 3$
+##### 3. Uva : 2.50$
+##### 4. Fragole : 2$
+##### 5. Pesche : 3$
+##### 6. Melograno : 4$
+##### 7. Frutti di bosco : 3.50$
 ***

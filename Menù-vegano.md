@@ -28,7 +28,6 @@ Toast di patate dolci servite con carote marinate all'orientale, avocado e rucol
 ##### 5. _Plumcake salato_, 9$
 Plumcake salato al tofu e con verdure di stagione frullate e a pezzi.
 ***
-
 #### Primi piatti vegani:
 ***
 ##### 1.  _Pasta con pesto di barbabietole e pistacchi_, 8$
@@ -42,3 +41,34 @@ Plumcake salato al tofu e con verdure di stagione frullate e a pezzi.
 ##### 9.  _Risotto vegano con cavolfiore, curcuma e scaglie di mandorle_, 8$
 ##### 10. _Strozzapreti cremosi ai cavolini di Bruxelles e tempeh dorato_, 7$
 ***
+#### Secondi piatti:
+##### 1. _Funghi porcini al timo in salsa di physalis_, 16.70$
+##### 2. _Polpette di tempeh e piselli con maionese al profumo di menta_, 17.30$
+##### 3. _Insalata di orzo perlato con fave fresche, fragole e tahina_, 14.99$
+##### 4. _Sformato di asparagi con salsa di yogurt all’aglio_, 18.00$
+##### 5. _Burger di melanzane_, 14.50$
+***
+##### Dolci/Frutta
+Dolci:
+##### 1. Crema di yogurt dolce senza zucchero – Farcia per torte : 5$
+##### 2. Torta vegana ai pistacchi – Video ricetta : 3$
+##### 3. Pan di limone vegan alle mele : 5$
+##### 4. Briouats marocchini dolci : 3.50$
+##### 5. Budino vegano aromatizzato al tè verde con gelsomino e albicocche : 4.50$
+##### 6. Torta fregolotta vegana : 2.50$
+##### 7. Torta mimosa vegana – Dolce vegano per la Festa della donna : 3.50$
+***
+Frutta:
+***
+##### 1. Anguria : 2.50$
+##### 2. Melone : 3$
+##### 3. Uva : 2.50$
+##### 4. Fragole : 2$
+##### 5. Pesche : 3$
+##### 6. Melograno : 4$
+##### 7. Frutti di bosco : 3.50$
+***
+
+
+
+ 
