@@ -8,7 +8,7 @@ Link Menù di Pesce in formato txt : [Menù Pesce](https://github.com/MarcoSatta
 ***
 Link Menù Vegan in formato txt : [Menù Vegan](https://github.com/MarcoSatta/Ristorante-Develhope/blob/main/Menù-Vegano.txt)
 ***
-Link Menù di Carne in formato md : [Menù Carne](https://etc/)
+Link Menù di Carne in formato md : [Menù Carne](https://github.com/MarcoSatta/Ristorante-Develhope/blob/main/Menù-carne.md)
 ***
 Link Menù di Pesce in formato md : [Menù Pesce](https://etc/)
 ***
