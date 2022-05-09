@@ -41,8 +41,8 @@ Carpaccio di manzo marinata al limone servito con scaglie di parmigiano e rucola
 ***
 #### Secondi piatti:
 ***
-1. Petto di fagiano in crepinette con verdure invernali					14.99$
-2. Capretto su spuma di patate											18.99$
-3. Guancetta di vitello cottura lunga e verdure autunnali				23.99$
-4. Piccione arrosto, rapa rossa e frutti di bosco						21.99$
-5. Filetto di manzo alla Wellington con crema di patate e spinaci		26.99$
+##### 1. _Petto di fagiano in crepinette con verdure invernali_,					14.99$
+##### 2. _Capretto su spuma di patate_,											18.99$
+##### 3. _Guancetta di vitello cottura lunga e verdure autunnali_,				23.99$
+##### 4. _Piccione arrosto, rapa rossa e frutti di bosco_,						21.99$
+##### 5. _Filetto di manzo alla Wellington con crema di patate e spinaci_,		26.99$
