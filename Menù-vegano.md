@@ -47,4 +47,4 @@ Plumcake salato al tofu e con verdure di stagione frullate e a pezzi.
 3. Insalata di orzo perlato con fave fresche, fragole e tahina, 14.99$
 4. Sformato di asparagi con salsa di yogurt all’aglio, 18.00$
 5. Burger di melanzane, 14.50$
-6. ***
+***
