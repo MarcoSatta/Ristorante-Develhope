@@ -14,7 +14,7 @@ Fanta 1lt : 3$
 Vino Bianco locale 500ml : 5$
 
 Vino Rosso locale 500ml : 5$
-
+***
 #### Antipasti di carne:
 ***
 ##### 1. _Nervetti e fagioli_, 7$
@@ -26,11 +26,23 @@ Fettine di vitello alla piastra servite con maionese aromitazzata al tonno, acci
 ##### 4. _Carpaccio al grana e rucola_, 7$
 Carpaccio di manzo marinata al limone servito con scaglie di parmigiano e rucola fresca.
 ***
-
+#### Primi piatti di carne:
+***
+##### 1.  _Spaghetti alla Carbonara_, 8$
+##### 2.  _Pasta alla Gricia_, 7$
+##### 3.  _Cannelloni_, 8$
+##### 4.  _Pasta al Forno_, 6$
+##### 5.  _Risotto alla Salsiccia_, 6$
+##### 6.  _Tagliatelle al Ragu Bianco_, 7$,
+##### 7.  _Paccheri Ripieni con Salsiccia e Funghi_, 10$
+##### 8.  _Pappardelle con Speck e Funghi Porcini_, 9$
+##### 9.  _Trofie al Forno_, 8$
+##### 10. _Genovese_, 7$
+***
 #### Secondi piatti:
-
-- Petto di fagiano in crepinette con verdure invernali					14.99$
-- Capretto su spuma di patate											18.99$
-- Guancetta di vitello cottura lunga e verdure autunnali				23.99$
-- Piccione arrosto, rapa rossa e frutti di bosco						21.99$
-- Filetto di manzo alla Wellington con crema di patate e spinaci		26.99$
+***
+1. Petto di fagiano in crepinette con verdure invernali					14.99$
+2. Capretto su spuma di patate											18.99$
+3. Guancetta di vitello cottura lunga e verdure autunnali				23.99$
+4. Piccione arrosto, rapa rossa e frutti di bosco						21.99$
+5. Filetto di manzo alla Wellington con crema di patate e spinaci		26.99$

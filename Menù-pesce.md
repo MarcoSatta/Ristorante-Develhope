@@ -14,7 +14,7 @@ Fanta 1lt : 3$
 Vino Bianco locale 500ml : 5$
 
 Vino Rosso locale 500ml : 5$
-
+***
 #### Antipasti di pesce:
 ***
 ##### 1. _Polpettine di tonno e ricotta_, 5$
@@ -28,11 +28,24 @@ La ricetta originale seguita alla perfezione: solo cozze e pepe.
 ##### 5. _Polpette di pesce_, 6$
 Polpettine di pesci piccoli come acciughe e sarde fritte.
 ***
-
+#### Primi piatti di pesce:
+***
+##### 1.  _Spaghetti alle Vongole_, 8$
+##### 2.  _Spaghetti allo Scoglio_, 7$
+##### 3.  _Paella_, 8$
+##### 4.  _Riso Venere con Gamberetti e Zucchine_, 6$
+##### 5.  _Linguine gamberetti, Zucchine e Zafferano_, 6$
+##### 6.  _Carbonara di Mare_, 7$,
+##### 7.  _Paccheri al Sugo di Calamari_, 10$
+##### 8.  _Pappardelle agli Asparagi e Gamberi_, 9$
+##### 9.  _Risotto al Limone e Gamberetti_, 8$
+##### 10. _Pasta con Pesce Spada_, 7$
+***
 #### Secondi piatti:
-
-- Ricciola panata e ripiena di bufala su pomodoro marinato							22.70$
-- Filetto di rombo chiodato, sedano rapa e melagrana								23.00$
-- Filetto di pescato all’isolana													19.90$
-- Filetto di ricciola crudo dentro cotto fuori alla mediterranea con millefoglie	27.40$
-- Filetto di tonno con cime di rape e salsa di cipolla rossa di Tropea				26.50$
+***
+1. Ricciola panata e ripiena di bufala su pomodoro marinato							22.70$
+2. Filetto di rombo chiodato, sedano rapa e melagrana								23.00$
+3. Filetto di pescato all’isolana													19.90$
+4. Filetto di ricciola crudo dentro cotto fuori alla mediterranea con millefoglie	27.40$
+5. Filetto di tonno con cime di rape e salsa di cipolla rossa di Tropea				26.50$
+***
