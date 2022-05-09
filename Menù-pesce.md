@@ -14,7 +14,7 @@ Fanta 1lt : 3$
 Vino Bianco locale 500ml : 5$
 
 Vino Rosso locale 500ml : 5$
-
+***
 #### Antipasti di pesce:
 ***
 ##### 1. _Polpettine di tonno e ricotta_, 5$
