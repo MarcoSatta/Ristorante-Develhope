@@ -47,9 +47,8 @@ Carpaccio di manzo marinata al limone servito con scaglie di parmigiano e rucola
 ##### 4. _Piccione arrosto, rapa rossa e frutti di bosco_,						21.99$
 ##### 5. _Filetto di manzo alla Wellington con crema di patate e spinaci_,		26.99$
 ***
-#### Dolci/Frutta:
+#### Dolci:
 ***
-Dolci
 ##### 1. Tiramisù : 5$
 ##### 2. Torta-Tenerina : 4$
 ##### 3. Brownies : 3.50&
@@ -58,7 +57,7 @@ Dolci
 ##### 6. Crostata di fragole fresche : 3.50$
 ##### 7. Tortino di cioccolato : 2.50$
 ***
-Frutta
+#### Frutta:
 ***
 ##### 1. Anguria : 2.50$
 ##### 2. Melone : 3$
