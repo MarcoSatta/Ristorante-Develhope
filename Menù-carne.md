@@ -46,3 +46,25 @@ Carpaccio di manzo marinata al limone servito con scaglie di parmigiano e rucola
 ##### 3. _Guancetta di vitello cottura lunga e verdure autunnali_,				23.99$
 ##### 4. _Piccione arrosto, rapa rossa e frutti di bosco_,						21.99$
 ##### 5. _Filetto di manzo alla Wellington con crema di patate e spinaci_,		26.99$
+***
+#### Dolci/Frutta:
+***
+Dolci
+##### 1. Tiramisù : 5$
+##### 2. Torta-Tenerina : 4$
+##### 3. Brownies : 3.50&
+##### 4. Muffin con gocce di cioccolato : 3$
+##### 5. Torta di mele : 4$
+##### 6. Crostata di fragole fresche : 3.50$
+##### 7. Tortino di cioccolato : 2.50$
+***
+Frutta
+***
+##### 1. Anguria : 2.50$
+##### 2. Melone : 3$
+##### 3. Uva : 2.50$
+##### 4. Fragole : 2$
+##### 5. Pesche : 3$
+##### 6. Melograno : 4$
+##### 7. Frutti di bosco : 3.50$
+***

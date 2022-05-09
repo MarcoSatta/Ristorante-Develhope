@@ -38,3 +38,23 @@ Secondi piatti:
 3. Guancetta di vitello cottura lunga e verdure autunnali				                                23.99$
 4. Piccione arrosto, rapa rossa e frutti di bosco				                                        21.99$
 5. Filetto di manzo alla Wellington con crema di patate e spinaci				                        26.99$
+
+ Dolci/Frutta:
+
+Dolci
+ 1. Tiramisù : 5$
+ 2. Torta-Tenerina : 4$
+ 3. Brownies : 3.50&
+ 4. Muffin con gocce di cioccolato : 3$
+ 5. Torta di mele : 4$
+ 6. Crostata di fragole fresche : 3.50$
+ 7. Tortino di cioccolato : 2.50$
+
+ 1. Anguria : 2.50$
+ 2. Melone : 3$
+ 3. Uva : 2.50$
+ 4. Fragole : 2$
+ 5. Pesche : 3$
+ 6. Melograno : 4$
+ 7. Frutti di bosco : 3.50$
+
