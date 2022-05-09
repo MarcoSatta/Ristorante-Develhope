@@ -30,3 +30,10 @@ Primi piatti vegani:
 8.  Fusilli con sugo rosso ai broccoli, cavolini di Bruxelles e pinoli, 9$
 9.  Risotto vegano con cavolfiore, curcuma e scaglie di mandorle, 8$
 10. Strozzapreti cremosi ai cavolini di Bruxelles e tempeh dorato, 7$
+
+Secondi piatti:
+1. Funghi porcini al timo in salsa di physalis				16.70$
+2. Polpette di tempeh e piselli con maionese al profumo di menta		17.30$
+3. Insalata di orzo perlato con fave fresche, fragole e tahina		14.99$
+4. Sformato di asparagi con salsa di yogurt all’aglio			18.00$
+5. Burger di melanzane							14.50$

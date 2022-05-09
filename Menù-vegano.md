@@ -28,7 +28,6 @@ Toast di patate dolci servite con carote marinate all'orientale, avocado e rucol
 ##### 5. _Plumcake salato_, 9$
 Plumcake salato al tofu e con verdure di stagione frullate e a pezzi.
 ***
-
 #### Primi piatti vegani:
 ***
 ##### 1.  _Pasta con pesto di barbabietole e pistacchi_, 8$
@@ -42,3 +41,10 @@ Plumcake salato al tofu e con verdure di stagione frullate e a pezzi.
 ##### 9.  _Risotto vegano con cavolfiore, curcuma e scaglie di mandorle_, 8$
 ##### 10. _Strozzapreti cremosi ai cavolini di Bruxelles e tempeh dorato_, 7$
 ***
+#### Secondi piatti:
+1. Funghi porcini al timo in salsa di physalis, 16.70$
+2. Polpette di tempeh e piselli con maionese al profumo di menta, 17.30$
+3. Insalata di orzo perlato con fave fresche, fragole e tahina, 14.99$
+4. Sformato di asparagi con salsa di yogurt all’aglio, 18.00$
+5. Burger di melanzane, 14.50$
+6. ***

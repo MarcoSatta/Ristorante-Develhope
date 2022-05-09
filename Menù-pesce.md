@@ -28,7 +28,6 @@ La ricetta originale seguita alla perfezione: solo cozze e pepe.
 ##### 5. _Polpette di pesce_, 6$
 Polpettine di pesci piccoli come acciughe e sarde fritte.
 ***
-
 #### Primi piatti di pesce:
 ***
 ##### 1.  _Spaghetti alle Vongole_, 8$
@@ -41,4 +40,12 @@ Polpettine di pesci piccoli come acciughe e sarde fritte.
 ##### 8.  _Pappardelle agli Asparagi e Gamberi_, 9$
 ##### 9.  _Risotto al Limone e Gamberetti_, 8$
 ##### 10. _Pasta con Pesce Spada_, 7$
+***
+#### Secondi piatti:
+***
+1. Ricciola panata e ripiena di bufala su pomodoro marinato							22.70$
+2. Filetto di rombo chiodato, sedano rapa e melagrana								23.00$
+3. Filetto di pescato all’isolana													19.90$
+4. Filetto di ricciola crudo dentro cotto fuori alla mediterranea con millefoglie	27.40$
+5. Filetto di tonno con cime di rape e salsa di cipolla rossa di Tropea				26.50$
 ***
